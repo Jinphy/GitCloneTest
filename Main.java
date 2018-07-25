@@ -3,5 +3,9 @@ public class Main{
         System.out.println("Hello Git!");
 	String s = new String("OK");
 
+	int x = 10;
+
+	int z = 10;
+
     }
 }
